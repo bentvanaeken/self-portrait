@@ -2,4 +2,4 @@
 I worked on this for around 6 hours lol
 
 Image: 
-![self portrait](https://imgur.com/yihnZr8)
+![portrait](https://i.imgur.com/yihnZr8.png)
